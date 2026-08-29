@@ -16,7 +16,7 @@
 <h1 align="left">🎮 First-Godot-Game</h1>
 
 <p align="justify">
-Mon premier projet sur Godot est un jeu de plateforme où l'on incarne un petit chevalier traversant divers mondes et environnements. Pour réussir, le joueur doit esquiver ennemis et pièges, calculer ses sauts pour ne pas tomber dans le vide, et ramasser un maximum de pièces pour battre son record. Saurez-vous relever le défi ?
+Mon premier jeu sur Godot est un jeu de plateforme où l'on incarne un petit chevalier traversant divers mondes et environnements. Pour réussir, le joueur doit esquiver ennemis et pièges, calculer ses sauts pour ne pas tomber dans le vide, et ramasser un maximum de pièces pour battre son record. Saurez-vous relever le défi ?
 </p>
 
 <!-- |-------------------------------------------------------------------------------------------| -->
