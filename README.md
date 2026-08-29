@@ -54,7 +54,7 @@ Mon premier jeu sur Godot est un jeu de plateforme où l'on incarne un petit che
 ## 🎮 Lancer le jeu
 
 <p align="justify">
-Pour lancer le jeu, vous devez aller dans le dossier exports et double-cliquer sur le fichier First Godot Game.x86_64. Si le système refuse de lancer l'application, ouvrez votre terminal dans le dossier exports et saisissez la commande suivante pour lui accorder les permissions d'exécution :
+Pour lancer le jeu, vous devez aller dans le dossier exports et double-cliquer sur le fichier. Si le système refuse de lancer l'application, ouvrez votre terminal dans le dossier exports et saisissez la commande suivante pour lui accorder les permissions d'exécution :
 </p>
 
 ```bash
